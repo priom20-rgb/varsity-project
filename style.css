@@ -6,6 +6,7 @@ body{
     background-image: url("last try.jpg");
     background-size: cover;
     position: fixed;
+    background-repeat: no-repeat;
 }
 img{
     aspect-ratio: 3/2;
